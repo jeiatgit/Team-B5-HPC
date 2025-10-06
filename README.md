@@ -18,7 +18,7 @@ The study aims to analyze **speedup, scalability, and performance** across these
 
 - **SRI SOMESH S - CB.AI.U4AID23141** – Implemented Filters (Sobel, Laplacian, Sharpening, Gaussian) in Serial  
 - **SAI  CHAKRITH - CB.AI.U4AID23143** – Convolution Engine, Performance Measurement, Main File (Serial)  
-- **JEIESH J SCB.AI.U4AID23116** – Implemented Filters in OpenMP  
+- **JEIESH J S - CB.AI.U4AID23116** – Implemented Filters (Sobel, Laplacian, Sharpening, Gaussian) in OpenMP  
 - **JEEVAKAMAL K R - CB.AI.U4AID23115** – Convolution Engine, Performance Measurement, Main File (OpenMP)  
 - **SURIYA DHARSAUN - CB.AI.U4AID23144** – CUDA Implementation   
 
